@@ -1,2 +1,2 @@
-# Trex-game
-I have used SPCK 
+# Tablet-SPCK-PRO-C10-Teacher-Activity
+Teacher Activity
